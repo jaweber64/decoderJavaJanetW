@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="decoderlib.decoderlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/decoderlib/build/libs/decoderlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
